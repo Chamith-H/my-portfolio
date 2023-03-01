@@ -1,0 +1,69 @@
+.Learn-Detail {
+    background-color: rgb(6, 0, 83)
+}
+
+.Education-Title {
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    text-align: left;
+}
+
+.Education-Title h6{
+    color: rgb(0, 0, 80);
+}
+
+.Learn-Detail h6 {
+    color: rgba(255, 255, 255, 0.89);
+}
+
+.Learn-Detail p {
+    font-size: 14px;
+    color: rgba(255, 255, 255, 0.664);
+}
+
+.Learn-Detail span {
+    color: rgba(241, 249, 255, 0.863);
+    font-style: italic;
+}
+
+.Learn-Detail img {
+    width:80%
+}
+
+.More-Education  {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-top: 32px;
+}
+
+.More-Education button {
+    font-size: 14px;
+    height: 33px;
+    width:170px;
+    border-radius: 5px;
+}
+
+.More-Education #Certificates {
+    background-color: rgb(6, 0, 83);
+    color: rgb(255, 255, 255);
+    border-style: none;
+}
+
+.More-Education #Archievements {
+    margin-left: 5px;
+    border-style: solid;
+    border-width: 1px;
+    border-color: rgb(6, 0, 83);
+    background-color: rgb(255, 255, 255);
+    font-weight: 500;
+    color: rgb(21, 21, 99);
+}
+
+.Education-Title img{
+    margin-right: 6px;
+    margin-top: 6px;
+    height: 40px;
+    width: 50px;
+}

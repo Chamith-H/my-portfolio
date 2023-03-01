@@ -1,0 +1,31 @@
+.Footer {
+    
+}
+
+.Link-Box {
+    display: flex;
+    justify-content: center;
+}
+
+.List{
+    display: flex;
+    flex-direction: column;
+}
+
+.List a{
+    text-decoration: none;
+    font-size: 15px;
+    color: rgb(107, 107, 107);
+}
+
+.Footer-Middle {
+    height: 40px;
+    width:100%;
+    background-color: rgba(233, 233, 233, 0.521);
+}
+
+.Footer-Bottom {
+    height: 70px;
+    width: 100%;
+    background-color: rgb(255, 255, 255);
+}

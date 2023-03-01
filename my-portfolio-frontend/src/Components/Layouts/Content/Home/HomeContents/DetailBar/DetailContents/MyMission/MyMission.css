@@ -1,0 +1,38 @@
+.MyMission {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    border-bottom-right-radius: 8px;
+    background-size: cover;
+}
+
+.Mission-Title {
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    text-align: left;
+}
+
+.Mission-Content-Image {
+    margin-top: -35px;
+    width:52%;
+}
+
+.Mission-Title img {
+    margin-right: 6px;
+    margin-top: 6px;
+    height: 40px;
+    width: 40px;
+}
+
+.MyMission h6 {
+    color: rgb(0, 0, 80);
+}
+
+.MyMission p {
+    font-size: 14px;
+    color: rgba(255, 255, 255, 0.719);
+    background-color: rgb(6, 0, 83);
+}

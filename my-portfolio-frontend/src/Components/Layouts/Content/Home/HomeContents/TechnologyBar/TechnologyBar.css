@@ -1,0 +1,56 @@
+.TechnologyBar {
+    display: flex;
+    justify-content: center;
+    background-color: rgb(4, 0, 66);
+}
+
+.Technology-Content {
+    width: 100%;
+    display: flex;
+    text-align: center;
+}
+
+.Technology-Content h2 {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: 500;
+    color: rgb(228, 228, 228);
+}
+
+.Technology-Content h2 span {
+    color: rgb(29, 63, 255);
+}
+
+.Technology-Button button {
+    height:40px;
+    width:170px;
+    border-radius: 5px;
+    font-size: 14px;
+}
+
+.Technology-Button #Ideas-Button {
+    border-style: none;
+    background-color: rgb(15, 15, 161);
+    color: rgb(255, 255, 255);
+}
+
+.Technology-Button #Learn-Button {
+    border-style: solid;
+    border-width: 1px;
+    border-color: rgb(21, 21, 201);
+    color: rgb(70, 70, 255);
+    background-color: rgb(0, 4, 66);
+    margin-left: 8px;
+    font-weight: 500;
+}
+
+.Technology-Paragraph p{
+    font-size: 18px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: rgb(170, 170, 170);
+    text-align: justify;
+}
+
+.Single-Technology img {
+    width: 100%;
+}
+

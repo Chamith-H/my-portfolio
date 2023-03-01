@@ -1,0 +1,95 @@
+.DetailBox {
+    background-image: url('../../../../../../../Assests/HomePage/Detail-Background.jpg');
+    background-size: cover;
+}
+
+.Align-Details {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    background-color: rgba(0, 0, 0, 0.356);
+}
+
+.Box-Content {
+    margin-top: -70px;
+    background-color: rgba(255, 255, 255, 0.979);
+    border-radius: 7px;
+    box-shadow: 0px 0px 15px 2px #04002ce8;
+}
+
+.Navigate-Buttons {
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    background-color: rgba(255, 255, 255, 0.116);
+    border-top-right-radius: 8px;
+}
+
+.Profile-Background {
+    border-right-style: solid;
+    border-width: 1px;
+    border-color: #9b9b9b9f;
+}
+
+.Profile-Detail {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+.Profile-Pic {
+    width: 60%;
+    border-width: 1px;
+    border-style: solid;
+}
+
+.Profile-Pic img {
+    width:100%
+}
+
+.Profile-Info h4{
+    font-size: 19px;
+    color: #010036;
+}
+
+.Profile-Info h5{
+    color: #585858;
+    font-size: 16px;
+}
+
+.Profile-Info h6{
+    font-size: 13px;
+    color: rgb(143, 143, 143);
+}
+
+.Navigate-Buttons .Navigate-Link{
+    font-size: 14px;
+    font-weight: 500;
+    color: #4a5a7e;
+    text-decoration: none;
+}
+
+.Navigate-Contents {
+    background-color: rgba(50, 63, 117, 0.096);
+}
+
+.Profile-Detail {
+    /* background-image: url('../../../../../../../Assests/HomePage/Pic-B.png');
+    background-size: cover; */
+    border-bottom-left-radius: 8px;
+    border-top-left-radius: 8px;
+}
+
+.Route-Contents {
+    background-image: url('../../../../../../../Assests/Others/Mission-Background.jpg');
+    background-size: cover;
+    border-bottom-right-radius: 8px;
+}
+
+.Align-Outlet {
+    background-color: rgba(255, 255, 255, 0.753);
+    border-bottom-right-radius: 8px;
+    min-height: 430px;
+}

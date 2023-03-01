@@ -1,0 +1,63 @@
+.ServicesBar {
+    background-image: url('../../../../../../Assests/HomePage/Service-Background.png');
+    background-size: cover;
+    background-position: center;
+    border-style: solid;
+    border-width: 1px;
+    border-top: 0px;
+    border-left: 0px;
+    border-right: 0px;
+    border-color: rgba(77, 77, 241, 0.315);
+}
+
+.Align-Services {
+    background-color: rgba(0, 0, 0, 0.068);
+}
+
+.Work-Content {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+
+.Work-Content h2 {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: 500;
+    color: rgb(12, 12, 12);
+}
+
+.Work-Content h2 span {
+    color: rgb(0, 30, 199);
+}
+
+.Single-Work {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-left: 10px;
+    padding-right: 10px;
+    border-radius: 5px;
+    box-shadow: 0px -1px 20px 0px rgba(24, 39, 255, 0.301);
+    text-align: center;
+    min-height: 300px;
+    background-image: url('../../../../../../Assests/Others/Pic-Background.jpg');
+    background-size: cover;
+}
+
+.Single-Work img {
+    width:100%
+}
+
+.Single-Work h6 {
+    margin-top: 35px;
+    font-size: 14px;
+    color: rgb(37, 57, 110);
+}
+
+.Single-Work p {
+    margin-left: 7px;
+    margin-right: 7px;
+    font-size: 13px;
+    color: rgb(139, 139, 139);
+}

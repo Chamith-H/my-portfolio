@@ -1,0 +1,38 @@
+.MyVision {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    border-bottom-right-radius: 8px;
+    background-size: cover;
+}
+
+.Vision-Title {
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    text-align: left;
+}
+
+.MyVision img {
+    margin-top: -3px;
+    width:52%;
+}
+
+.Vision-Title img {
+    margin-right: 6px;
+    margin-top: 6px;
+    height: 40px;
+    width: 45px;
+}
+
+.MyVision h6{
+    color: rgba(0, 0, 80);
+}
+
+.MyVision p {
+    font-size: 14px;
+    color: rgba(255, 255, 255, 0.719);
+    background-color: rgb(6, 0, 83);
+}
